@@ -1,6 +1,6 @@
 {
-    "name": "bbctop/bbctop-template",
-    "description": "bbctop-template template driver",
+    "name": "bbctop/template",
+    "description": "bbctop template driver",
     "homepage": "https://www.bbctop.com",
     "require": {},
     "license": "MIT",
