@@ -14,8 +14,8 @@ namespace think\view\driver;
 
 use think\App;
 use think\helper\Str;
-use Bbctop\Template;
-use Bbctop\template\exception\TemplateNotFoundException;
+use think\Template;
+use think\template\exception\TemplateNotFoundException;
 
 class Bbctop
 {

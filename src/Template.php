@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 declare (strict_types = 1);
 
-namespace think;
+namespace Bbctop;
 
 use Exception;
 use Psr\SimpleCache\CacheInterface;
